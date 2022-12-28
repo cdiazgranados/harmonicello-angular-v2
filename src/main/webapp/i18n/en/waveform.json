@@ -1,0 +1,11 @@
+{
+  "harmonicelloApp": {
+    "Waveform": {
+      "null": "",
+      "SINE": "SINE",
+      "TRIANGLE": "TRIANGLE",
+      "SQUARE": "SQUARE",
+      "SAWTOOTH": "SAWTOOTH"
+    }
+  }
+}

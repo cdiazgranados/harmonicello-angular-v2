@@ -1,0 +1,29 @@
+{
+  "harmonicelloApp": {
+    "presets": {
+      "home": {
+        "title": "Presets",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Presets",
+        "createOrEditLabel": "Create or edit a Presets",
+        "notFound": "No Presets found"
+      },
+      "created": "A new Presets is created with identifier {{ param }}",
+      "updated": "A Presets is updated with identifier {{ param }}",
+      "deleted": "A Presets is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Presets {{ id }}?"
+      },
+      "detail": {
+        "title": "Presets"
+      },
+      "id": "ID",
+      "presetTitle": "Preset Title",
+      "hertz": "Hertz",
+      "sustain": "Sustain",
+      "waveform": "Waveform",
+      "instrument": "Instrument",
+      "user": "User"
+    }
+  }
+}
